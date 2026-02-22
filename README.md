@@ -1,6 +1,6 @@
 # fellow-aiden ☕
 
-An [OpenClaw](https://github.com/openclaw/openclaw) skill to control your [Fellow Aiden](https://fellowproducts.com/products/aiden) smart coffee brewer via AI assistant.
+An [OpenClaw](https://github.com/openclaw/openclaw) skill to control your [Fellow Aiden](https://fellowproducts.com/products/aiden-precision-coffee-maker)) smart coffee brewer via AI assistant.
 
 Chat naturally with your AI assistant to manage brew profiles, set up schedules, share recipes, and more — no app required.
 
